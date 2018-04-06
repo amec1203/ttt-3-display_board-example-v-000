@@ -7,5 +7,5 @@ def display_board
   puts separating_line
   puts row
   puts separating_line
-  puts row 
+  puts row
   end
