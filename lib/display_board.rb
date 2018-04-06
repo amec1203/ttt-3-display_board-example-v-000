@@ -4,6 +4,6 @@ def display_board
   cell = "   "
   pipe = "|"
   separating_line = "-----------"
-  end 
+  end
 
 puts display_board
